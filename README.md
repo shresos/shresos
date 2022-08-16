@@ -3,6 +3,6 @@
 
 
 
-- 🔭 I’m currently working on Gorin Systems
-- 🌱 I’m currently studying Computer Application Developement a Graduate Certificate Degree at Conestoga College Waterloo. 
-- 🤔 I’m leaning JavaScript, NodeJS, React JS and WPF .net framework and ASP>NET.
+- 🔭 I’m currently working on Gorin Systems, New York, US.
+- 🌱 I’m currently studying Computer Application Developement a Graduate Certificate Degree at Conestoga College Waterloo Canada. 
+- 🤔 I’m leaning JavaScript, NodeJS, React JS and WPF .net framework and ASP.NET.
